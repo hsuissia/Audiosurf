@@ -1,0 +1,11 @@
+<PublishConfig>
+	<Settings projectName="PreloadedAudiosurf" publishType="installer" target="C:/Documents and Settings/Dylan/My Documents/Audiosurf/Published/InstallPreloadedAudiosurf.exe" saveCurrentProject="" keepRunningApplication="0" filterType="" useZipCompression="1" saveWhenPublishing="1" keepRunningWhenActive="0" protectCgrs="0" includeFilters="*.cgr" includeAllChannels="0"/>
+	<Screensaver defaultFolder="C:\Program Files\Quest3D\Default" runInPreviewMode="1" dontStopOnMouse="0" directXWarning="1"/>
+	<Installer defaultFolder="C:\games\Audiosurf" startMenuPath="BGE\Audiosurf" runAfterInstallation="0" directXWarning="1"/>
+	<Viewer copyToOtherDirectory="0" otherDirectory="" confirmOverwrites="1"/>
+	<Web createHtml="1" copyToOtherDirectory="0" otherDirectory="" htmlFileName="" confirmOverwrites="1"/>
+	<Dirs>
+	</Dirs>
+	<Files>
+	</Files>
+</PublishConfig>

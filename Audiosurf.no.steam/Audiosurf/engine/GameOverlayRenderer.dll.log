@@ -1,0 +1,70 @@
+Module file name: D:\Program Files\Valve\Steam\GameOverlayRenderer.dll
+AppID = 240
+Hooking SetCursorPos, GetCursorPos, ShowCursor, and SetCursor
+Hooking DispatchMessage calls
+Hooking GetRawInputBuffer calls
+Modules at GameOverlayRenderer.dll attach
+01: hl2.exe
+02: ntdll.dll
+03: kernel32.dll
+04: USER32.dll
+05: GDI32.dll
+06: ADVAPI32.dll
+07: RPCRT4.dll
+08: IMM32.DLL
+09: MSCTF.dll
+10: msvcrt.dll
+11: LPK.DLL
+12: USP10.dll
+13: r3hook.dll
+14: PSAPI.DLL
+15: SHLWAPI.dll
+16: comctl32.dll
+17: GameOverlayRenderer.dll
+----------------------------
+Found GetModuleHandleEx
+Game is using D3D9, preparing to hook.
+Game is using dinput.dll (dinput7), preparing to hook.
+DirectInputCreateW hook called
+hookDirect3DCreate9 called
+IWrapIDirect3D9::CreateDevice hook called!
+Trying to setup input hook...
+Set input hook...
+Disabling overlay for 2 seconds (10 seconds since last frame was seen)
+Disabling overlay for 2 seconds (12 seconds since last frame was seen)
+Disabling overlay for 2 seconds (14 seconds since last frame was seen)
+Disabling overlay for 2 seconds (16 seconds since last frame was seen)
+Disabling overlay for 2 seconds (18 seconds since last frame was seen)
+Disabling overlay for 2 seconds (20 seconds since last frame was seen)
+Disabling overlay for 2 seconds (22 seconds since last frame was seen)
+Disabling overlay for 2 seconds (24 seconds since last frame was seen)
+Disabling overlay for 2 seconds (26 seconds since last frame was seen)
+Disabling overlay for 2 seconds (28 seconds since last frame was seen)
+Disabling overlay for 2 seconds (30 seconds since last frame was seen)
+Disabling overlay for 2 seconds (32 seconds since last frame was seen)
+Disabling overlay for 2 seconds (34 seconds since last frame was seen)
+Disabling overlay for 2 seconds (36 seconds since last frame was seen)
+Disabling overlay for 2 seconds (38 seconds since last frame was seen)
+Disabling overlay for 2 seconds (40 seconds since last frame was seen)
+Disabling overlay for 2 seconds (42 seconds since last frame was seen)
+Disabling overlay for 2 seconds (44 seconds since last frame was seen)
+Disabling overlay for 2 seconds (46 seconds since last frame was seen)
+Disabling overlay for 2 seconds (48 seconds since last frame was seen)
+Disabling overlay for 2 seconds (50 seconds since last frame was seen)
+Disabling overlay for 2 seconds (52 seconds since last frame was seen)
+Disabling overlay for 2 seconds (54 seconds since last frame was seen)
+Disabling overlay for 2 seconds (56 seconds since last frame was seen)
+Disabling overlay for 2 seconds (58 seconds since last frame was seen)
+Releasing all resources for device: 1073a0c0
+DeleteD3D9Renderer called for: 1073a0c0
+Detaching input hook...
+Found a hooked function in now unloaded module, removing from map.
+Found a hooked function in now unloaded module, removing from map.
+Found a hooked function in now unloaded module, removing from map.
+Found a hooked function in now unloaded module, removing from map.
+Found a hooked function in now unloaded module, removing from map.
+Found a hooked function in now unloaded module, removing from map.
+Found a hooked function in now unloaded module, removing from map.
+Found a hooked function in now unloaded module, removing from map.
+GameOverlayRenderer.dll detaching
+Detaching input hook...

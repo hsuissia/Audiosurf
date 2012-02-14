@@ -1,0 +1,92 @@
+<PublishConfig>
+	<Settings projectName="Audiosurf" publishType="installer" target="C:/Documents and Settings/Owner/My Documents/Audiosurf/Published/Audiosurf.exe" saveCurrentProject="" keepRunningApplication="0" filterType="" useZipCompression="1" saveWhenPublishing="1" keepRunningWhenActive="0" protectCgrs="0" includeFilters="*.cgr" includeAllChannels="0"/>
+	<Screensaver defaultFolder="C:\Program Files\Quest3D\Default" runInPreviewMode="1" dontStopOnMouse="0" directXWarning="1"/>
+	<Installer defaultFolder="C:\games\Audiosurf" startMenuPath="BestGameEver.com/Audiosurf" runAfterInstallation="0" directXWarning="1"/>
+	<Viewer copyToOtherDirectory="0" otherDirectory="" confirmOverwrites="1"/>
+	<Web createHtml="1" copyToOtherDirectory="0" otherDirectory="" htmlFileName="" confirmOverwrites="1"/>
+	<Dirs>
+	</Dirs>
+	<Files>
+		<File path="/Actors/Boss_TrafficRunner.cgr" status="2"/>
+		<File path="/Actors/CarParts.cgr" status="2"/>
+		<File path="/Actors/CollectibleCommander.cgr" status="2"/>
+		<File path="/Actors/CollectionGates.cgr" status="2"/>
+		<File path="/Actors/Debris.cgr" status="2"/>
+		<File path="/Actors/Enemies_Flight.cgr" status="2"/>
+		<File path="/Actors/Explosion.cgr" status="2"/>
+		<File path="/Actors/GrenadeManager.cgr" status="2"/>
+		<File path="/Actors/MoneyFloaterCommander.cgr" status="2"/>
+		<File path="/Actors/Player.cgr" status="2"/>
+		<File path="/Actors/Player_Pullers.cgr" status="2"/>
+		<File path="/Actors/Rocket.cgr" status="2"/>
+		<File path="/Actors/ScoreFloaterCommander.cgr" status="2"/>
+		<File path="/Actors/SpecialPurpose.cgr" status="2"/>
+		<File path="/Actors/Sprayer.cgr" status="2"/>
+		<File path="/Actors/SprayerStraight.cgr" status="2"/>
+		<File path="/Actors/TrafficCommander.cgr" status="2"/>
+		<File path="/Actors/TuneThruster.cgr" status="2"/>
+		<File path="/Effects/BeatFlash.cgr" status="2"/>
+		<File path="/Effects/EraserEffect.cgr" status="2"/>
+		<File path="/Effects/HitCrosses.cgr" status="2"/>
+		<File path="/Effects/LaserShot.cgr" status="2"/>
+		<File path="/Effects/SkySpray.cgr" status="2"/>
+		<File path="/Effects/TrafficHusks.cgr" status="2"/>
+		<File path="/Environment/Highway.cgr" status="2"/>
+		<File path="/Environment/Puzzle.cgr" status="2"/>
+		<File path="/Intros/AwardFare.cgr" status="2"/>
+		<File path="/Intros/FadeOverlay.cgr" status="2"/>
+		<File path="/Intros/Feats.cgr" status="2"/>
+		<File path="/Intros/GrenadeSelector.cgr" status="2"/>
+		<File path="/Intros/Ladder.cgr" status="2"/>
+		<File path="/Intros/LevelTreeSelector.cgr" status="2"/>
+		<File path="/Intros/MainMenu.cgr" status="2"/>
+		<File path="/Intros/MenuMusic.cgr" status="2"/>
+		<File path="/Intros/SavingMessage.cgr" status="2"/>
+		<File path="/Intros/SellUpgrade.cgr" status="2"/>
+		<File path="/Intros/ServerMessages.cgr" status="2"/>
+		<File path="/Intros/VehicleSelector.cgr" status="2"/>
+		<File path="/Intros/ViewRank.cgr" status="2"/>
+		<File path="/Intros/WorldSelector.cgr" status="2"/>
+		<File path="/Intros/XX_HighScoresTable.cgr" status="2"/>
+		<File path="/Intros/XX_OnlineHighScoresTable.cgr" status="2"/>
+		<File path="/Render/FixedChainspans.cgr" status="2"/>
+		<File path="/Render/Render_IndustrialTunnel.cgr" status="2"/>
+		<File path="/Render/RenderCommon.cgr" status="2"/>
+		<File path="/Scores/CD_ScoreStorage.cgr" status="2"/>
+		<File path="/Scores/FileSong_ScoreStorage.cgr" status="2"/>
+		<File path="/Scores/StatCollector.cgr" status="2"/>
+		<File path="/SongSelector/BuiltinSongPicks.cgr" status="2"/>
+		<File path="/SongSelector/CDBrowser.cgr" status="2"/>
+		<File path="/SongSelector/FileBrowser.cgr" status="2"/>
+		<File path="/SongSelector/OpenMic.cgr" status="2"/>
+		<File path="/SongSelector/QuickPicks.cgr" status="2"/>
+		<File path="/SongSelector/RadioBrowser.cgr" status="2"/>
+		<File path="/SongSelector/SongSelector.cgr" status="2"/>
+		<File path="/Stage/XX_Camera.cgr" status="2"/>
+		<File path="/Stage/XX_Lights.cgr" status="2"/>
+		<File path="/Stage/XX_MouseState.cgr" status="2"/>
+		<File path="/Stage/XX_Timer.cgr" status="2"/>
+		<File path="/Stage/XX_WindowState.cgr" status="2"/>
+		<File path="/Support/CombatOverlord.cgr" status="2"/>
+		<File path="/Support/Dumpty.cgr" status="2"/>
+		<File path="/Support/Hinter.cgr" status="2"/>
+		<File path="/Support/Input.cgr" status="2"/>
+		<File path="/Support/IrrelevanceTest.cgr" status="2"/>
+		<File path="/Support/Options.cgr" status="2"/>
+		<File path="/Support/PlayerLevel.cgr" status="2"/>
+		<File path="/Support/QuestionBoxOverlord.cgr" status="2"/>
+		<File path="/Support/Replay.cgr" status="2"/>
+		<File path="/Support/SavedConstants.cgr" status="2"/>
+		<File path="/Support/SetConstants.cgr" status="2"/>
+		<File path="/Support/SpecialP_Overlord.cgr" status="2"/>
+		<File path="/Support/TutorialOverlord.cgr" status="2"/>
+		<File path="/Support/UnlockableStats.cgr" status="2"/>
+		<File path="/gui/AlertWindow.cgr" status="2"/>
+		<File path="/gui/XX_gui.cgr" status="2"/>
+		<File path="/gui/XX_PauseScreen.cgr" status="2"/>
+		<File path="/gui/XX_WindowStateButtons.cgr" status="2"/>
+		<File path="/sounds/Sounds_Narratives.cgr" status="2"/>
+		<File path="/sounds/VisMusic.cgr" status="2"/>
+		<File path="/sounds/XX_Sounds.cgr" status="2"/>
+	</Files>
+</PublishConfig>
